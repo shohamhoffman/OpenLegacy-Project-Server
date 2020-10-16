@@ -1,6 +1,3 @@
-// Shoham Hoffman Haik
-// 206990269
-
 package OpenLegacyApplication;
 
 import org.springframework.data.jpa.repository.JpaRepository;
